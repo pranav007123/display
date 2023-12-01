@@ -1,0 +1,30 @@
+.row{
+    background-color: black;
+    height: 500px;
+   display: flex;
+
+
+    justify-content:space-around;
+    
+    align-items: center;
+}
+.col{
+    border: 2px yellow solid;
+    height:200px;
+    width: 200px;
+}
+.col-1{
+    background-color:aquamarine;
+}
+.col-2{
+    background-color: red;
+}
+.col-3{
+    background-color:purple;
+}
+.col-4{
+    background-color: blue;
+}
+.col-5{
+    background-color: greenyellow;
+}
